@@ -29,9 +29,8 @@ Which pieces of the code did you find most challenging to write, and how did you
 
 What skills from this project will be particularly transferable to other projects or course work?
 
- 	 -I take a lot of notes, so I have the culmination of that with each project if I had a question about anything, I just asked, which I think some people have a problem with just asking questions when 
-  they get stuck on something, and all the projects that I've done I have all that experience to put forth towards future projects.
- 	 -I think at first C++ is a duanting language at first, but now that I have the basics down for the most part, it will benifit me when I have another project with C++ or another language. 
+ 	 -I take a lot of notes, so I have the culmination of that with each project if I had a question about anything, I just asked, which I think some people have a problem with just asking questions when they get stuck on something, and all the projects that I've done I have all that experience to put forth towards future projects.
+   	 -I think at first C++ is a duanting language at first, but now that I have the basics down for the most part, it will benifit me when I have another project with C++ or another language. 
    
 How did you make this program maintainable, readable, and adaptable?
 
